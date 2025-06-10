@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Hi, I'm Zura 👋
 
 I'm a frontend developer passionate about building responsive, user-friendly, and accessible web interfaces. I focus on writing clean HTML, CSS, and JavaScript — and I'm currently working through real-world challenges to sharpen my skills.
