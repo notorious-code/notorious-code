@@ -2,7 +2,6 @@
 # Hi, I'm Zura 👋
 
 I'm a frontend developer passionate about building responsive, user-friendly, and accessible web interfaces. I focus on writing clean HTML, CSS, and JavaScript — and I'm currently working through real-world challenges to sharpen my skills.I'm also working on small freelance-style front-end orders from design communities and local businesses — these help me apply frontend skills to real-world needs.
-
 ---
 ## 🔭 I’m currently working on  
 Building and refining real-world projects like the Frontend Mentor Contact Form and Interactive Card Details Form. I focus on clean, accessible code, fully responsive layouts, and UX details that elevate user experience.
@@ -18,7 +17,6 @@ Modern JavaScript (ES6+)
 React.js and component-based architecture
 Git/GitHub for version control & collaboration
 Professional deployment with GitHub Pages and Vercel
-I recently earned a UI/UX Design Certificate, which boosted my understanding of user-centered design and improved the way I structure interfaces.
 
 ## 💬 Ask me about  
 Building responsive UIs, setting up GitHub repos and pages, structuring your first frontend project, or how to turn a static design into an interactive website.
@@ -35,9 +33,6 @@ I’ve been working on self-driven and freelance-style frontend projects for a f
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=zura vefkhvadze&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@mammba) 
