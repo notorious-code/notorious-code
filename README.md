@@ -1,31 +1,50 @@
 
 # Hi, I'm Zura 👋
 
-I'm a frontend developer passionate about building responsive, user-friendly, and accessible web interfaces. I focus on writing clean HTML, CSS, and JavaScript — and I'm currently working through real-world challenges to sharpen my skills.
+I'm a frontend developer passionate about building responsive, user-friendly, and accessible web interfaces. I focus on writing clean HTML, CSS, and JavaScript — and I'm currently working through real-world challenges to sharpen my skills.I'm also working on small freelance-style front-end orders from design communities and local businesses — these help me apply frontend skills to real-world needs.
 
 ---
+## 🔭 I’m currently working on  
+Building and refining real-world projects like the Frontend Mentor Contact Form and Interactive Card Details Form. I focus on clean, accessible code, fully responsive layouts, and UX details that elevate user experience.
 
-## 🚀 Latest Project
+## 👯 I’m looking to collaborate on  
+Open-source or practice-based projects involving HTML, CSS, JavaScript, or React. I'm especially interested in designing and building reusable UI components, form validation systems.
 
-### [📨 Contact Form](https://notorious-code.github.io/contact-form/)
+## 🤝 I’m looking for help with  
+Advanced JavaScript logic, animations with Framer Motion, accessibility testing, and learning industry-standard frontend workflows.
 
-A fully responsive contact form built for the [Frontend Mentor](https://www.frontendmentor.io/) challenge.  
-Features include:
+## 🌱 I’m currently learning  
+Modern JavaScript (ES6+)
+React.js and component-based architecture
+Git/GitHub for version control & collaboration
+Professional deployment with GitHub Pages and Vercel
+I recently earned a UI/UX Design Certificate, which boosted my understanding of user-centered design and improved the way I structure interfaces.
 
-- ✅ Custom input validation
-- ✅ Error and success messages
-- ✅ Accessible radio buttons and form structure
-- ✅ Built with semantic HTML, CSS, and vanilla JavaScript
+## 💬 Ask me about  
+Building responsive UIs, setting up GitHub repos and pages, structuring your first frontend project, or how to turn a static design into an interactive website.
 
-🔗 **GitHub Repo:** [notorious-code/contact-form](https://github.com/notorious-code/contact-form)
+## ⚡ Fun fact  
+By night, I ride my motorcycle through mountains🌄. By day, I turn those experiences into clean, semantic code 🧠.
+I’ve been working on self-driven and freelance-style frontend projects for a few years and continue growing as a junior frontend developer every day.
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/z.vepkhvadze) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/6IIlXV7Ta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zura.vefkhvadze97@gmail.com) 
 
-## 💡 More coming soon...
+# 💻 Tech Stack:
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=zura vefkhvadze&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=zura vefkhvadze&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zura vefkhvadze&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I'm actively working on new projects — including React-based apps, interactive components, and more Frontend Mentor challenges.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=zura vefkhvadze&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@mammba) 
 
 ## 🌐 Find me here:
 
